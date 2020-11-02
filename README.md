@@ -1,4 +1,4 @@
-![cosmos](https://www.linkedin.com/in/matthieu-marinangeli-a8a198192/detail/background-image/)
+![cosmos](https://raw.githubusercontent.com/marinang/marinang/master/cosmos.jpg)
 
 # Hey there 👋 ![Visitors](https://komarev.com/ghpvc/?username=marinang&label=Visitors)
 

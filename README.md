@@ -16,7 +16,8 @@ I am a French physicist, a data scientist and a Python enthusiast.
   * Segmentation the customers into groups according to their purchase patterns and product purchases, and characterise/ quantify the obtained customer personas.
   * Customer churn prediction by the end of 2011.
   * Calculation of Customer Lifetime Value for each customer.
-The notebook and code of the analysis can be found [here](https://github.com/marinang/online_retail_analysis).
+  
+  The notebook and code of the analysis can be found [here](https://github.com/marinang/online_retail_analysis).
  
 
 ## :mag_right: Meaningless stats about my GitHub activity 

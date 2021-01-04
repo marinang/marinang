@@ -7,7 +7,7 @@ I am a French physicist, a data scientist and a Python enthusiast.
 
 🧑🏻‍🎓 I just finished a PhD in experimental particle physics at EPFL, working on the data collected by the LHCb detector at CERN between 2016 and 2018 (RunII data). You can find my manuscript here [📖](https://infoscience.epfl.ch/record/279779?ln=fr).
 
-🤔 I am currently looking for a data scientist/analyst position in the Lausanne area in Switzerland. 
+🤔 I am currently looking for a data scientist/analyst or Python developer position in the Lausanne area in Switzerland. 
 
 ## 📈 Check out my projects
 

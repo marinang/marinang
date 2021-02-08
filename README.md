@@ -7,7 +7,7 @@ I am a French physicist, a data scientist and a Python enthusiast.
 
 🧑🏻‍🎓 I just finished a PhD in experimental particle physics at EPFL, working on the data collected by the LHCb detector at CERN between 2016 and 2018 (RunII data). You can find my manuscript here [📖](https://infoscience.epfl.ch/record/279779?ln=fr).
 
-Since 01/02/2021 I am a Data Analytics Consultant at [Argusa](https://www.argusa.ch/?lang=en).  
+📊📉 Since 01/02/2021 I am a Data Analytics Consultant at [Argusa](https://www.argusa.ch/?lang=en).  
 
 ## 📈 Check out my projects
 
